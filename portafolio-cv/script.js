@@ -29,7 +29,7 @@
         e.preventDefault();
         $loader.classList.remove('none');
 
-        fetch('https://formsubmit.co/ajax/48bdf9dea29132e8f62a8800df893695', {
+        fetch('https://formsubmit.co/ajax/abelvasquezdlp@gmail.com', {
             method: "POST",
             body: new FormData(e.target),
         })
